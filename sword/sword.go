@@ -1,11 +1,11 @@
 package sword
 
 import (
-	"github.com/GoAdminGroup/go-admin/modules/language"
-	adminTemplate "github.com/GoAdminGroup/go-admin/template"
-	"github.com/GoAdminGroup/go-admin/template/components"
-	"github.com/GoAdminGroup/go-admin/template/types"
-	"github.com/GoAdminGroup/themes/sword/resource"
+	"github.com/glvd/go-admin/modules/language"
+	adminTemplate "github.com/glvd/go-admin/template"
+	"github.com/glvd/go-admin/template/components"
+	"github.com/glvd/go-admin/template/types"
+	"github.com/glvd/themes/sword/resource"
 	"html/template"
 )
 

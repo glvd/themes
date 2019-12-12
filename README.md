@@ -1,7 +1,7 @@
 # GoAdmin Official Themes
 
-- [adminlte](https://github.com/GoAdminGroup/themes/tree/master/adminlte)
-- [sword](https://github.com/GoAdminGroup/themes/tree/master/sword)
+- [adminlte](https://github.com/glvd/themes/tree/master/adminlte)
+- [sword](https://github.com/glvd/themes/tree/master/sword)
 
 ## How to use
 
@@ -14,7 +14,7 @@ package main
 
 import (
 	...
-	_ "github.com/GoAdminGroup/themes/adminlte"
+	_ "github.com/glvd/themes/adminlte"
 	...
 )
 

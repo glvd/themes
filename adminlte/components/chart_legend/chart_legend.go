@@ -3,9 +3,9 @@ package chart_legend
 import (
 	"bytes"
 	"fmt"
-	"github.com/GoAdminGroup/go-admin/modules/language"
-	"github.com/GoAdminGroup/go-admin/modules/logger"
-	"github.com/GoAdminGroup/themes/adminlte/components"
+	"github.com/glvd/go-admin/modules/language"
+	"github.com/glvd/go-admin/modules/logger"
+	"github.com/glvd/themes/adminlte/components"
 	"html/template"
 )
 
